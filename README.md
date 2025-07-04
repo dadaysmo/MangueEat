@@ -24,7 +24,7 @@ Para testar o jogo localmente, siga estes passos:
 
 1.  Clone este repositório:
     ```sh
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/dadaysmo/mangueeat.git](https://github.com/dadaysmo/mangueeat.git)
     ```
 2.  Navegue até a pasta do projeto:
     ```sh
